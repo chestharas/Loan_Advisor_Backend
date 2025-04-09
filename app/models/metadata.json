@@ -1,0 +1,22 @@
+{
+    "features": [
+        "Province",
+        "Region Type",
+        "Age",
+        "Gender",
+        "Employment Type",
+        "Annual Income (USD)",
+        "Credit History",
+        "Existing Debt (USD)",
+        "Savings/Assets (USD)",
+        "Loan Type",
+        "Loan Amount (USD)",
+        "Loan Term (Years)",
+        "Annual Interest Rate (%)",
+        "Collateral (USD)"
+    ],
+    "version": "1.0",
+    "author": "You",
+    "risk_model_path": "app/models/risk_model.joblib",
+    "loan_model_path": "app/models/loan_model.joblib"
+}
